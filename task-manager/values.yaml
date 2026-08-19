@@ -3,7 +3,7 @@ replicaCount: 2
 image:
   repository: ghcr.io/theadityaagnihotri/task-manager
   pullPolicy: IfNotPresent
-  tag: "4a7aa3ae7fb9c331376b56e1b4b3843b66366f8b"
+  tag: "f21585442b284ec6cd5a416eb3204d5d3b888df4"
 
 imagePullSecrets: []
 nameOverride: ""
